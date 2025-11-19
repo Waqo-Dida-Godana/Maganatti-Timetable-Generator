@@ -1,0 +1,26 @@
+# TODO for Vite React TS Project Setup
+
+- [x] Create package.json
+- [ ] Create vite.config.ts
+- [ ] Create tsconfig.json
+- [ ] Create tsconfig.app.json
+- [ ] Create tsconfig.node.json
+- [ ] Create tailwind.config.ts
+- [ ] Create postcss.config.js
+- [ ] Create eslint.config.js
+- [ ] Create components.json
+- [ ] Create .gitignore
+- [ ] Create README.md
+- [ ] Create index.html
+- [ ] Create src/vite-env.d.ts
+- [ ] Create src/main.tsx
+- [ ] Create src/App.tsx
+- [ ] Create src/App.css
+- [ ] Create src/index.css
+- [ ] Create src/assets/ (directory)
+- [ ] Create src/components/ (directory)
+- [ ] Create src/hooks/ (directory)
+- [ ] Create src/lib/ (directory)
+- [ ] Create src/pages/ (directory)
+- [ ] Run npm install
+- [ ] Test with npm run dev
